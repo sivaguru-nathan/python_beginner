@@ -2,3 +2,7 @@ the interface data wil be added.
 {
 var data = 123;
 }
+
+{
+var credata = 120;
+}
